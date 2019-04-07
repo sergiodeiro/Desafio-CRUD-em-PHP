@@ -108,7 +108,7 @@
                          echo '<td width=250>';
                          echo '<a style="margin-bottom: 5px"; class="btn btn-warning" href="./views/update.php?id='.$row['cliente_id'].'&idEndereco='.$row['id'].'"><span class="glyphicon glyphicon-edit"></span></a>';
                          echo '';
-                         echo '<a style="margin-left: 10px;margin-bottom: 3px;" class="btn btn-danger" href="./views/delete.php?id='.$row['cliente_id'].'"><span class="glyphicon glyphicon-trash"></span></a>';
+                         echo '<a class="btn btn-danger" href="./views/delete.php?id='.$row['cliente_id'].'"><span class="glyphicon glyphicon-trash"></span></a>';
                          echo '</td>';
                          echo '</tr>';
                      
