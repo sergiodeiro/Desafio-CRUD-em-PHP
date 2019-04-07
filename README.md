@@ -15,9 +15,9 @@ Desenvolvimento a partir de um desafio CRUD utilizando o acesso a banco de dados
 - Editar o arquivo **banco.php** 
 
 ```
-$dbNome = 'nomeDaTable' 
-$dbHost = 'nomeDoDominioOuIP:Porta' 
-$dbUsuario = 'usuarioDoMysql' 
-$dbSenha 'senhaDoUsuario'
+$dbNome = 'Nome da Tabela' 
+$dbHost = 'Nome do Dominio' 
+$dbUsuario = 'Usuário do Banco(MySql)' 
+$dbSenha 'Senha(se houver)'
 
 ```
