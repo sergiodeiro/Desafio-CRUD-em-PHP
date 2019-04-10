@@ -1,6 +1,6 @@
 # Desafio CRUD em PHP - Bootstrap, JavaScript  PDO & MySQL
 
-Desenvolvimento a partir de um desafio CRUD utilizando o acesso a banco de dados com o PhpyMyAdmin(MySQL) e linguagem PHP.
+Desenvolvimento a partir de um desafio CRUD utilizando o acesso a banco de dados com o PhpMyAdmin(MySQL) e linguagem PHP.
 
 ## Objetivos do Desafio :
 
